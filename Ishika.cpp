@@ -117,5 +117,5 @@ int p[20],wt[20],tat[20],pr[20],i,total=0,pos,temp,avg_wt,avg_tat;
     printf("\nAverage Turnaround Time=%d\n",avg_tat);
  
  getch();
- 
+
 }
